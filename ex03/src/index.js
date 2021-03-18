@@ -13,5 +13,5 @@ function myFunction(myObj) {
 }
 
 // Only change code above this line
-console.log(myFunction(myFood)); // Change this line 
+console.log(myFunction(myFood)); // Change this line
 module.exports = myFunction(myFood);
