@@ -12,6 +12,7 @@ function myFunction() {
       gold: true
     },
     002: {
+      // Add a record here
       artist: "Celine Dion",
       title: "A New Day Has Come",
       release_year: 2002,
