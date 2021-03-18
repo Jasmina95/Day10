@@ -6,7 +6,7 @@ var lion = {
 };
 // End of lion object
 
-function myFunction(propName, propValue) { // Change this line
+function myFunction(propName, propValue) {
   // Only change code below this line
   lion[propName] = propValue;
   return lion;
