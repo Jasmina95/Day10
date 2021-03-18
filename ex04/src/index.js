@@ -10,7 +10,7 @@ function myFunction(myObj) {
   var player = myObj[playerNumber];
   return player;
 }
-// Only change code above this line
 
 console.log(myFunction(players));
+// Only change code above this line
 module.exports = { players, myFunction };
