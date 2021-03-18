@@ -1,4 +1,4 @@
-function myFunction(propName) { // Change this line
+function myFunction(propName) {
   // Only change code below this line
   var lion = {
     name: "Simba",
