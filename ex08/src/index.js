@@ -1,5 +1,5 @@
 function getUsername(email) {
-  var username = "";
+  var username = '';
 
   // Only change code below this line
   var username = {
